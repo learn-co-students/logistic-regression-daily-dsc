@@ -1,4 +1,4 @@
-# Logistic Regression and Classifier evaluation challenge
+# Logistic regression and Classifier evaluation challenge
 
 ## Instructions
 
